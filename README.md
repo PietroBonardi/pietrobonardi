@@ -9,5 +9,5 @@ with a background in Computer Science and Engineering.
 🌬 **REACH ME**
 - pietrobonardi@icloud.com 
 
-💬 **MEDIUM**
+💬 **BLOG** (ongoing work)
 - [medium@pietrobonardi](https://medium.com/@pietrobonardi)
