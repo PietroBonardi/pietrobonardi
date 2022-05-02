@@ -1,4 +1,4 @@
-## HELLO 👋 
+## HELLO 👐
 I am Pietro, a passionately curios Data Scientist,
 with a background in Computer Science and Engineering.
 
