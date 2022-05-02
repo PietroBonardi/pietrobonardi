@@ -6,7 +6,7 @@ with a background in Computer Science and Engineering.
 - Machine & Deep Learning
 - Computer Vision 
 
-🌬 **REACH ME**
+🤝 **REACH ME**
 - pietrobonardi@icloud.com 
 
 💬 **BLOG** (ongoing work)
