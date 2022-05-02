@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello 👋 
 
-<!--
-**PietroBonardi/pietrobonardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻 WHOAMI:
+I am Pietro, a passionately curios Data Scientist, with a background in Computer Science and Engineering.
 
-Here are some ideas to get you started:
+🕺🏻 INTERESTS: 
+- Machine & Deep Learning
+- Computer Vision 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌬 REACH ME:
+- pietrobonardi@icloud.com 
+
+💬 MEDIUM:
+- [medium@pietrobonardi](https://medium.com/@pietrobonardi)
