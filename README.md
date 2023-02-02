@@ -1,10 +1,11 @@
-## HELLO 👐
-I am Pietro, a passionately curios Data Scientist,
-with a background in Computer Science and Engineering.
+## HELLO !
+I am working as a risk modeler in the finance industry.
 
-🕺🏻 **INTERESTS** 
-- Machine & Deep Learning
-- Computer Vision 
+**CS Engineer | Data Scientist**
+
+🕺🏻 **INTERESTED IN**  
+- Machine learning
+- Software enthusiast
 
 🤝 **REACH ME**
 - pietrobonardi@icloud.com 
