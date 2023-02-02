@@ -14,3 +14,6 @@ I am working as a risk modeler in the finance industry.
 
 💬 **BLOG** (ongoing work)
 - [medium@pietrobonardi](https://medium.com/@pietrobonardi)
+
+
+_last update: February 2023_
