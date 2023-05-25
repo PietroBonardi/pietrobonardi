@@ -2,7 +2,7 @@
 
 Software enthusiast currently working as a risk modeler (data scientist) in finance industry.
 
-🕺🏻 ### **Interested in**  
+🕺🏻 **Interested in**  
 - Statistical learning
 - Reinforcement learning 
 
