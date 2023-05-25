@@ -1,6 +1,4 @@
 ## HELLO WORLD 🌍
----
-**CS Engineer | Data Scientist**
 
 I am a software enthusiast. Currently working as a risk modeler in finance industry.
 
