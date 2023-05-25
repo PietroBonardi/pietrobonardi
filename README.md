@@ -2,15 +2,15 @@
 
 Software enthusiast currently working as a risk modeler (data scientist) in finance industry.
 
-🕺🏻 **INTERESTED IN**  
+🕺🏻 ### **Interested in**  
 - Statistical learning
 - Reinforcement learning 
 
-💫 **REACH ME**
+💫 **Reach me**
 - pietrobonardi@icloud.com 
 - [linkedin](https://www.linkedin.com/in/pietrobonardi/)
 
-💬 **BLOG** (ongoing work)
+💬 **Blog** (ongoing work)
 - [medium](https://medium.com/@pietrobonardi)
 
 
