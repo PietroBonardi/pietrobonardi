@@ -6,9 +6,8 @@ I am a software enthusiast. Currently working as a risk modeler in finance indus
 
 ---
 🕺🏻 **INTERESTED IN**  
-- Machine learning
-- Risk Modeling
-- Reinforcement learning
+- Statistical learning
+- Reinforcement learning 
 
 💫 **REACH ME**
 - pietrobonardi@icloud.com 
