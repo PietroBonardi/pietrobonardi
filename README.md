@@ -1,6 +1,6 @@
 ## HELLO WORLD 🌍
 
-Software enthusiast currently working as a risk modeler (data scientist) in the finance industry.
+Software enthusiast currently working as a risk modeler (data scientist) in the financial industry.
 
 🕺🏻 **Interested in**  
 - Statistical learning
