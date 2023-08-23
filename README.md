@@ -12,4 +12,4 @@ Software enthusiast currently working as a risk modeler (data scientist) in the 
 - [linkedin](https://www.linkedin.com/in/pietrobonardi/)
 
 
-_last update: May 2023_
+_last update: Aug 2023_
