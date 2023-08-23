@@ -4,7 +4,7 @@ Software enthusiast currently working as a risk modeler (data scientist) in the 
 
 🕺🏻 **Interested in**  
 - Statistical learning
-- Software Development
+- Software development
 - Machine learning 
 
 💫 **Reach me**
