@@ -4,7 +4,8 @@ Software enthusiast currently working as a risk modeler (data scientist) in the 
 
 🕺🏻 **Interested in**  
 - Statistical learning
-- Reinforcement learning 
+- Software Development
+- Machine learning 
 
 💫 **Reach me**
 - pietrobonardi@icloud.com 
