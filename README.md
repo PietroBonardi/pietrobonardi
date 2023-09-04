@@ -3,7 +3,6 @@
 Software enthusiast currently working as data scientist in the financial industry.
 
 🕺🏻 **Interested in**  
-- Statistical learning
 - Software development
 - Machine learning 
 
