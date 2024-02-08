@@ -1,6 +1,6 @@
 ## HELLO WORLD 🌍
 
-Software enthusiast currently working as data scientist in the financial industry.
+Software enthusiast currently working as data scientist | ML Engineer in the financial industry.
 
 🕺🏻 **Interested in**  
 - Software development
