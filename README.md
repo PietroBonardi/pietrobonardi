@@ -11,4 +11,4 @@ Software enthusiast currently working as data scientist | ML Engineer in the fin
 - [linkedin](https://www.linkedin.com/in/pietrobonardi/)
 
 
-_last update: Aug 2023_
+_last update: Feb 2024_
