@@ -2,7 +2,7 @@
 
 Software enthusiast currently working as data scientist | ML Engineer in the financial industry.
 
-🕺🏻 **Interested in**  
+🤹‍♂️ **Interested in**  
 - Software development
 - Machine learning 
 
