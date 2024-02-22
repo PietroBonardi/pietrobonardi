@@ -12,3 +12,4 @@ Software enthusiast currently working as Data Scientist | ML Engineer in the fin
 
 
 _last update: Feb 2024_
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
