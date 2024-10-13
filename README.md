@@ -9,5 +9,6 @@ Software enthusiast currently working as Machine Learning Engineer in the financ
 
 
 💫 **Reach out**
+- [website](https://github.com/PietroBonardi/PietroBonardi.github.io/blob/main/index.html)
 - pietrobonardi@icloud.com 
 - [linkedin](https://www.linkedin.com/in/pietrobonardi/)
