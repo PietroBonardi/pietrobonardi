@@ -2,8 +2,6 @@
 
 Software enthusiast currently working as Machine Learning Engineer in the financial industry.
 
-[website](https://pietrobonardi.github.io/)
-
 🤹‍♂️ **Interested in**  
 - Machine learning
 - Heuristic methods
@@ -12,3 +10,7 @@ Software enthusiast currently working as Machine Learning Engineer in the financ
 💫 **Reach out**
 - pietrobonardi@icloud.com 
 - [linkedin](https://www.linkedin.com/in/pietrobonardi/)
+
+
+Work in Progress ⚠️
+-> [website](https://pietrobonardi.github.io/)
